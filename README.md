@@ -25,6 +25,24 @@ Java | Spring Boot | Docker | Kubernetes | Swarm | AWS | Azure | GCP | Azure Dat
 
 ---
 
+### 🏅 Certifications
+
+[![Microsoft DP-200](https://img.shields.io/badge/Microsoft-DP--200-blue?logo=microsoft&logoColor=white)](#)
+Implementing an Azure Data Solution  
+_Issued Sep 2020_  
+[Show credential](#)
+
+[![Microsoft AZ-300](https://img.shields.io/badge/Microsoft-AZ--300-blue?logo=microsoft&logoColor=white)](#)
+Microsoft Azure Architect Technologies  
+[Show credential](#)
+
+[![Microsoft Architecting Azure](https://img.shields.io/badge/Microsoft-Architecting%20Azure%20Solutions-blue?logo=microsoft&logoColor=white)](#)
+Credential ID Transcript ID: 1243335  
+Access Code: MSJithin  
+[Show credential](#)
+
+---
+
 ### 📈 GitHub Stats
 
 - 🏆 **414+ commits** ([see more](https://github.com/search?q=author%3Ajithinmathai&type=commits&sort=author-date&order=desc))
