@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jithin-mathai-6719a24b/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jithinmathai)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mathai.jithinvm@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jithinmathai&color=blueviolet&style=for-the-badge)
 
@@ -305,7 +305,7 @@ I'm currently working on some exciting cloud-native projects that will be featur
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jithin-mathai-6719a24b/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jithinmathai)
-[![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mathai.jithinvm@gmail.com)
 
 **"Building the future, one commit at a time"**
 
