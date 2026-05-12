@@ -1,0 +1,55 @@
+name: Rotate Catholic Bible Verse
+
+# Rotates the verse displayed at the top of README.md (Douay-Rheims-Challoner).
+# Runs hourly, on manual trigger, and on push to main.
+#
+# Note: GitHub renders README.md statically and caches images on its CDN.
+# A true "every page load" change is not possible without an external SVG
+# endpoint. Hourly rotation is the closest no-hosting equivalent.
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/bible-verses.json"
+      - ".github/scripts/update_bible_verse.py"
+      - ".github/workflows/daily-bible-verse.yml"
+
+permissions:
+  contents: write
+
+# Avoid overlapping runs if a scheduled run starts while a push run is still going.
+concurrency:
+  group: rotate-bible-verse
+  cancel-in-progress: false
+
+jobs:
+  rotate:
+    name: Pick a random verse and update README
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Rotate verse in README.md
+        run: python .github/scripts/update_bible_verse.py
+
+      - name: Commit and push if README changed
+        run: |
+          if [[ -z "$(git status --porcelain README.md)" ]]; then
+            echo "README unchanged, nothing to commit."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore(readme): rotate Catholic Bible verse [skip ci]"
+          git push

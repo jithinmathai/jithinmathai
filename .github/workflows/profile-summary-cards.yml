@@ -1,0 +1,42 @@
+name: GitHub Profile Summary Cards
+
+# Generates five live, auto-updated stat SVGs under `profile-summary-card-output/`
+# using https://github.com/vn7n24fzkq/github-profile-summary-cards
+#
+# Runs:
+#   - on every push to main (so changes appear immediately while iterating)
+#   - daily at 00:00 UTC (keeps the cards fresh as your contributions evolve)
+#   - manually from the Actions tab (workflow_dispatch)
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+# Required so the action can commit the generated SVGs back to the repo.
+permissions:
+  contents: write
+
+jobs:
+  build:
+    name: Generate profile summary cards
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # GITHUB_TOKEN is automatically injected by GitHub Actions for every workflow run.
+          # No manual secret setup is needed for public stats. See README notes below.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          # Optional: skip specific repos from the language tally.
+          # EXCLUDE: "some-repo,another-repo"
+          # Optional: timezone offset for the "productive time" card (IST = +5:30 ≈ 330).
+          UTC_OFFSET: 330
