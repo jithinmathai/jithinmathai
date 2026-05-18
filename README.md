@@ -3,8 +3,8 @@
 <!-- BIBLE-VERSE:START -->
 <div align="center">
 
-> 📖 *“Come to me, all you that labour, and are burdened, and I will refresh you.”*  
-> — **Matthew 11:28** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
+> 📖 *“Be still and see that I am God; I will be exalted among the nations, and I will be exalted in the earth.”*  
+> — **Psalm 45:11 (DRA) / Psalm 46:10** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
 
 </div>
 <!-- BIBLE-VERSE:END -->
