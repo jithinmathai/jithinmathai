@@ -3,8 +3,8 @@
 <!-- BIBLE-VERSE:START -->
 <div align="center">
 
-> 📖 *“Be still and see that I am God; I will be exalted among the nations, and I will be exalted in the earth.”*  
-> — **Psalm 45:11 (DRA) / Psalm 46:10** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
+> 📖 *“The Lord ruleth me: and I shall want nothing.”*  
+> — **Psalm 22:1 (DRA) / Psalm 23:1** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
 
 </div>
 <!-- BIBLE-VERSE:END -->
