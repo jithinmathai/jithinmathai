@@ -3,8 +3,8 @@
 <!-- BIBLE-VERSE:START -->
 <div align="center">
 
-> 📖 *“The Lord is my light and my salvation, whom shall I fear? The Lord is the protector of my life: of whom shall I be afraid?”*  
-> — **Psalm 26:1 (DRA) / Psalm 27:1** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
+> 📖 *“Be still and see that I am God; I will be exalted among the nations, and I will be exalted in the earth.”*  
+> — **Psalm 45:11 (DRA) / Psalm 46:10** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
 
 </div>
 <!-- BIBLE-VERSE:END -->
