@@ -3,8 +3,8 @@
 <!-- BIBLE-VERSE:START -->
 <div align="center">
 
-> 📖 *“The Lord ruleth me: and I shall want nothing.”*  
-> — **Psalm 22:1 (DRA) / Psalm 23:1** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
+> 📖 *“The greater thou art, the more humble thyself in all things, and thou shalt find grace before God.”*  
+> — **Sirach 3:18** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
 
 </div>
 <!-- BIBLE-VERSE:END -->
