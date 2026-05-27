@@ -3,8 +3,8 @@
 <!-- BIBLE-VERSE:START -->
 <div align="center">
 
-> 📖 *“Wherefore I wished, and understanding was given me: and I called upon God, and the spirit of wisdom came upon me.”*  
-> — **Wisdom 7:7** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
+> 📖 *“For God so loved the world, as to give his only begotten Son; that whosoever believeth in him, may not perish, but may have life everlasting.”*  
+> — **John 3:16** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
 
 </div>
 <!-- BIBLE-VERSE:END -->
