@@ -3,8 +3,8 @@
 <!-- BIBLE-VERSE:START -->
 <div align="center">
 
-> 📖 *“Charity is patient, is kind: charity envieth not, dealeth not perversely; is not puffed up; Is not ambitious, seeketh not her own, is not provoked to anger, thinketh no evil.”*  
-> — **1 Corinthians 13:4-5** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
+> 📖 *“But they that hope in the Lord shall renew their strength, they shall take wings as eagles, they shall run and not be weary, they shall walk and not faint.”*  
+> — **Isaiah 40:31** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
 
 </div>
 <!-- BIBLE-VERSE:END -->
