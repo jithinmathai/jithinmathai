@@ -3,8 +3,8 @@
 <!-- BIBLE-VERSE:START -->
 <div align="center">
 
-> 📖 *“For God so loved the world, as to give his only begotten Son; that whosoever believeth in him, may not perish, but may have life everlasting.”*  
-> — **John 3:16** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
+> 📖 *“Learn where is wisdom, where is strength, where is understanding: that thou mayst know also where is length of days and life, where is the light of the eyes, and peace.”*  
+> — **Baruch 3:14** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
 
 </div>
 <!-- BIBLE-VERSE:END -->
