@@ -3,8 +3,8 @@
 <!-- BIBLE-VERSE:START -->
 <div align="center">
 
-> 📖 *“And we know that to them that love God, all things work together unto good, to such as, according to his purpose, are called to be saints.”*  
-> — **Romans 8:28** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
+> 📖 *“All things have their season, and in their times all things pass under heaven.”*  
+> — **Ecclesiastes 3:1** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
 
 </div>
 <!-- BIBLE-VERSE:END -->
