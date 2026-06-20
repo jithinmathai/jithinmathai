@@ -3,8 +3,8 @@
 <!-- BIBLE-VERSE:START -->
 <div align="center">
 
-> 📖 *“The greater thou art, the more humble thyself in all things, and thou shalt find grace before God.”*  
-> — **Sirach 3:18** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
+> 📖 *“Thy word is a lamp to my feet, and a light to my paths.”*  
+> — **Psalm 118:105 (DRA) / Psalm 119:105** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
 
 </div>
 <!-- BIBLE-VERSE:END -->
