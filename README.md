@@ -3,8 +3,8 @@
 <!-- BIBLE-VERSE:START -->
 <div align="center">
 
-> 📖 *“And we know that to them that love God, all things work together unto good, to such as, according to his purpose, are called to be saints.”*  
-> — **Romans 8:28** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
+> 📖 *“Good things and evil, life and death, poverty and riches, are from God.”*  
+> — **Sirach 11:14** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
 
 </div>
 <!-- BIBLE-VERSE:END -->
