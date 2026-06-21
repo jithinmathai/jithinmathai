@@ -3,8 +3,8 @@
 <!-- BIBLE-VERSE:START -->
 <div align="center">
 
-> 📖 *“But the fruit of the Spirit is, charity, joy, peace, patience, benignity, goodness, longanimity, mildness, faith, modesty, continency, chastity. Against such there is no law.”*  
-> — **Galatians 5:22-23** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
+> 📖 *“Charity is patient, is kind: charity envieth not, dealeth not perversely; is not puffed up; Is not ambitious, seeketh not her own, is not provoked to anger, thinketh no evil.”*  
+> — **1 Corinthians 13:4-5** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
 
 </div>
 <!-- BIBLE-VERSE:END -->
