@@ -3,8 +3,8 @@
 <!-- BIBLE-VERSE:START -->
 <div align="center">
 
-> 📖 *“For God hath not given us the spirit of fear: but of power, and of love, and of sobriety.”*  
-> — **2 Timothy 1:7** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
+> 📖 *“Whatsoever you do, do it from the heart, as to the Lord, and not to men.”*  
+> — **Colossians 3:23** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
 
 </div>
 <!-- BIBLE-VERSE:END -->
