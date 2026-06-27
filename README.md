@@ -3,8 +3,8 @@
 <!-- BIBLE-VERSE:START -->
 <div align="center">
 
-> 📖 *“Rejoicing in hope. Patient in tribulation. Instant in prayer.”*  
-> — **Romans 12:12** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
+> 📖 *“A faithful friend is a strong defence: and he that hath found him, hath found a treasure.”*  
+> — **Sirach 6:14** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
 
 </div>
 <!-- BIBLE-VERSE:END -->
