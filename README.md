@@ -3,8 +3,8 @@
 <!-- BIBLE-VERSE:START -->
 <div align="center">
 
-> 📖 *“Give alms out of thy substance, and turn not away thy face from any poor person: for so it shall come to pass that the face of the Lord shall not be turned from thee.”*  
-> — **Tobit 4:7** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
+> 📖 *“But the souls of the just are in the hand of God, and the torment of death shall not touch them.”*  
+> — **Wisdom 3:1** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
 
 </div>
 <!-- BIBLE-VERSE:END -->
