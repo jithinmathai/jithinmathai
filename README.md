@@ -3,8 +3,8 @@
 <!-- BIBLE-VERSE:START -->
 <div align="center">
 
-> 📖 *“Lay open thy works to the Lord: and thy thoughts shall be directed.”*  
-> — **Proverbs 16:3** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
+> 📖 *“For God so loved the world, as to give his only begotten Son; that whosoever believeth in him, may not perish, but may have life everlasting.”*  
+> — **John 3:16** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
 
 </div>
 <!-- BIBLE-VERSE:END -->
