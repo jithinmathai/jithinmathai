@@ -3,8 +3,8 @@
 <!-- BIBLE-VERSE:START -->
 <div align="center">
 
-> 📖 *“Lay open thy works to the Lord: and thy thoughts shall be directed.”*  
-> — **Proverbs 16:3** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
+> 📖 *“Seek ye therefore first the kingdom of God, and his justice, and all these things shall be added unto you.”*  
+> — **Matthew 6:33** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
 
 </div>
 <!-- BIBLE-VERSE:END -->
