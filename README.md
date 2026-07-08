@@ -3,8 +3,8 @@
 <!-- BIBLE-VERSE:START -->
 <div align="center">
 
-> 📖 *“Thy word is a lamp to my feet, and a light to my paths.”*  
-> — **Psalm 118:105 (DRA) / Psalm 119:105** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
+> 📖 *“Now the God of hope fill you with all joy and peace in believing; that you may abound in hope, and in the power of the Holy Ghost.”*  
+> — **Romans 15:13** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
 
 </div>
 <!-- BIBLE-VERSE:END -->
