@@ -3,8 +3,8 @@
 <!-- BIBLE-VERSE:START -->
 <div align="center">
 
-> 📖 *“For I know the thoughts that I think towards you, saith the Lord, thoughts of peace, and not of affliction, to give you an end and patience.”*  
-> — **Jeremiah 29:11** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
+> 📖 *“Learn where is wisdom, where is strength, where is understanding: that thou mayst know also where is length of days and life, where is the light of the eyes, and peace.”*  
+> — **Baruch 3:14** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
 
 </div>
 <!-- BIBLE-VERSE:END -->
