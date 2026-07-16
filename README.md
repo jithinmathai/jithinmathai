@@ -3,8 +3,8 @@
 <!-- BIBLE-VERSE:START -->
 <div align="center">
 
-> 📖 *“Now the God of hope fill you with all joy and peace in believing; that you may abound in hope, and in the power of the Holy Ghost.”*  
-> — **Romans 15:13** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
+> 📖 *“Seek ye therefore first the kingdom of God, and his justice, and all these things shall be added unto you.”*  
+> — **Matthew 6:33** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
 
 </div>
 <!-- BIBLE-VERSE:END -->
