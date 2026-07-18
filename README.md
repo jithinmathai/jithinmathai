@@ -3,8 +3,8 @@
 <!-- BIBLE-VERSE:START -->
 <div align="center">
 
-> 📖 *“Son, when thou comest to the service of God, stand in justice and in fear, and prepare thy soul for temptation.”*  
-> — **Sirach 2:1** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
+> 📖 *“Let us give thanks to the Lord our God, who trieth us, even as he did our fathers.”*  
+> — **Judith 8:25** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
 
 </div>
 <!-- BIBLE-VERSE:END -->
