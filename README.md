@@ -3,8 +3,8 @@
 <!-- BIBLE-VERSE:START -->
 <div align="center">
 
-> 📖 *“Son, when thou comest to the service of God, stand in justice and in fear, and prepare thy soul for temptation.”*  
-> — **Sirach 2:1** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
+> 📖 *“Wherefore I wished, and understanding was given me: and I called upon God, and the spirit of wisdom came upon me.”*  
+> — **Wisdom 7:7** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
 
 </div>
 <!-- BIBLE-VERSE:END -->
