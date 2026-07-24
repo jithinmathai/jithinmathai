@@ -3,8 +3,8 @@
 <!-- BIBLE-VERSE:START -->
 <div align="center">
 
-> 📖 *“But the fruit of the Spirit is, charity, joy, peace, patience, benignity, goodness, longanimity, mildness, faith, modesty, continency, chastity. Against such there is no law.”*  
-> — **Galatians 5:22-23** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
+> 📖 *“Now faith is the substance of things to be hoped for, the evidence of things that appear not.”*  
+> — **Hebrews 11:1** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
 
 </div>
 <!-- BIBLE-VERSE:END -->
