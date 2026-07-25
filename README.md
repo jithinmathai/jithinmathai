@@ -3,8 +3,8 @@
 <!-- BIBLE-VERSE:START -->
 <div align="center">
 
-> 📖 *“Son, when thou comest to the service of God, stand in justice and in fear, and prepare thy soul for temptation.”*  
-> — **Sirach 2:1** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
+> 📖 *“He that keepeth the law, multiplieth offerings. It is a wholesome sacrifice to take heed to the commandments, and to depart from all iniquity.”*  
+> — **Sirach 35:1-2** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
 
 </div>
 <!-- BIBLE-VERSE:END -->
