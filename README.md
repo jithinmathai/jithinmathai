@@ -3,8 +3,8 @@
 <!-- BIBLE-VERSE:START -->
 <div align="center">
 
-> 📖 *“Let us give thanks to the Lord our God, who trieth us, even as he did our fathers.”*  
-> — **Judith 8:25** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
+> 📖 *“Be still and see that I am God; I will be exalted among the nations, and I will be exalted in the earth.”*  
+> — **Psalm 45:11 (DRA) / Psalm 46:10** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
 
 </div>
 <!-- BIBLE-VERSE:END -->
