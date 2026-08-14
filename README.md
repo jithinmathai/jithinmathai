@@ -3,8 +3,8 @@
 <!-- BIBLE-VERSE:START -->
 <div align="center">
 
-> 📖 *“Son, when thou comest to the service of God, stand in justice and in fear, and prepare thy soul for temptation.”*  
-> — **Sirach 2:1** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
+> 📖 *“Now faith is the substance of things to be hoped for, the evidence of things that appear not.”*  
+> — **Hebrews 11:1** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
 
 </div>
 <!-- BIBLE-VERSE:END -->
