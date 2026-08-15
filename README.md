@@ -3,8 +3,8 @@
 <!-- BIBLE-VERSE:START -->
 <div align="center">
 
-> 📖 *“The greater thou art, the more humble thyself in all things, and thou shalt find grace before God.”*  
-> — **Sirach 3:18** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
+> 📖 *“He that keepeth the law, multiplieth offerings. It is a wholesome sacrifice to take heed to the commandments, and to depart from all iniquity.”*  
+> — **Sirach 35:1-2** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
 
 </div>
 <!-- BIBLE-VERSE:END -->
