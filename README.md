@@ -3,8 +3,8 @@
 <!-- BIBLE-VERSE:START -->
 <div align="center">
 
-> 📖 *“Lay open thy works to the Lord: and thy thoughts shall be directed.”*  
-> — **Proverbs 16:3** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
+> 📖 *“Rejoicing in hope. Patient in tribulation. Instant in prayer.”*  
+> — **Romans 12:12** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
 
 </div>
 <!-- BIBLE-VERSE:END -->
