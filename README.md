@@ -3,8 +3,8 @@
 <!-- BIBLE-VERSE:START -->
 <div align="center">
 
-> 📖 *“It is therefore a holy and wholesome thought to pray for the dead, that they may be loosed from sins.”*  
-> — **2 Maccabees 12:46** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
+> 📖 *“Wherefore I wished, and understanding was given me: and I called upon God, and the spirit of wisdom came upon me.”*  
+> — **Wisdom 7:7** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
 
 </div>
 <!-- BIBLE-VERSE:END -->
