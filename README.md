@@ -3,8 +3,8 @@
 <!-- BIBLE-VERSE:START -->
 <div align="center">
 
-> 📖 *“The Lord ruleth me: and I shall want nothing.”*  
-> — **Psalm 22:1 (DRA) / Psalm 23:1** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
+> 📖 *“Now the God of hope fill you with all joy and peace in believing; that you may abound in hope, and in the power of the Holy Ghost.”*  
+> — **Romans 15:13** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
 
 </div>
 <!-- BIBLE-VERSE:END -->
