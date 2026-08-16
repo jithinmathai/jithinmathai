@@ -3,8 +3,8 @@
 <!-- BIBLE-VERSE:START -->
 <div align="center">
 
-> 📖 *“Whatsoever you do, do it from the heart, as to the Lord, and not to men.”*  
-> — **Colossians 3:23** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
+> 📖 *“Blessed are the poor in spirit: for theirs is the kingdom of heaven.”*  
+> — **Matthew 5:3** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
 
 </div>
 <!-- BIBLE-VERSE:END -->
