@@ -3,8 +3,8 @@
 <!-- BIBLE-VERSE:START -->
 <div align="center">
 
-> 📖 *“Now the God of hope fill you with all joy and peace in believing; that you may abound in hope, and in the power of the Holy Ghost.”*  
-> — **Romans 15:13** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
+> 📖 *“Now faith is the substance of things to be hoped for, the evidence of things that appear not.”*  
+> — **Hebrews 11:1** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
 
 </div>
 <!-- BIBLE-VERSE:END -->
