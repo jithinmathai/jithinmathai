@@ -3,8 +3,8 @@
 <!-- BIBLE-VERSE:START -->
 <div align="center">
 
-> 📖 *“For God so loved the world, as to give his only begotten Son; that whosoever believeth in him, may not perish, but may have life everlasting.”*  
-> — **John 3:16** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
+> 📖 *“Be still and see that I am God; I will be exalted among the nations, and I will be exalted in the earth.”*  
+> — **Psalm 45:11 (DRA) / Psalm 46:10** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
 
 </div>
 <!-- BIBLE-VERSE:END -->
