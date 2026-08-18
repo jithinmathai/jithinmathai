@@ -3,8 +3,8 @@
 <!-- BIBLE-VERSE:START -->
 <div align="center">
 
-> 📖 *“It is therefore a holy and wholesome thought to pray for the dead, that they may be loosed from sins.”*  
-> — **2 Maccabees 12:46** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
+> 📖 *“The greater thou art, the more humble thyself in all things, and thou shalt find grace before God.”*  
+> — **Sirach 3:18** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
 
 </div>
 <!-- BIBLE-VERSE:END -->
