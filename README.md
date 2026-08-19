@@ -3,8 +3,8 @@
 <!-- BIBLE-VERSE:START -->
 <div align="center">
 
-> 📖 *“But the souls of the just are in the hand of God, and the torment of death shall not touch them.”*  
-> — **Wisdom 3:1** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
+> 📖 *“But the fruit of the Spirit is, charity, joy, peace, patience, benignity, goodness, longanimity, mildness, faith, modesty, continency, chastity. Against such there is no law.”*  
+> — **Galatians 5:22-23** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
 
 </div>
 <!-- BIBLE-VERSE:END -->
