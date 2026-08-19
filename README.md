@@ -3,8 +3,8 @@
 <!-- BIBLE-VERSE:START -->
 <div align="center">
 
-> 📖 *“The Lord is my light and my salvation, whom shall I fear? The Lord is the protector of my life: of whom shall I be afraid?”*  
-> — **Psalm 26:1 (DRA) / Psalm 27:1** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
+> 📖 *“For God hath not given us the spirit of fear: but of power, and of love, and of sobriety.”*  
+> — **2 Timothy 1:7** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
 
 </div>
 <!-- BIBLE-VERSE:END -->
