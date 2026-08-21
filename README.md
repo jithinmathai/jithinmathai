@@ -3,8 +3,8 @@
 <!-- BIBLE-VERSE:START -->
 <div align="center">
 
-> 📖 *“Son, when thou comest to the service of God, stand in justice and in fear, and prepare thy soul for temptation.”*  
-> — **Sirach 2:1** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
+> 📖 *“Seek ye therefore first the kingdom of God, and his justice, and all these things shall be added unto you.”*  
+> — **Matthew 6:33** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
 
 </div>
 <!-- BIBLE-VERSE:END -->
