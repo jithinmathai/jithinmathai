@@ -3,8 +3,8 @@
 <!-- BIBLE-VERSE:START -->
 <div align="center">
 
-> 📖 *“Come to me, all you that labour, and are burdened, and I will refresh you.”*  
-> — **Matthew 11:28** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
+> 📖 *“For God hath not given us the spirit of fear: but of power, and of love, and of sobriety.”*  
+> — **2 Timothy 1:7** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
 
 </div>
 <!-- BIBLE-VERSE:END -->
