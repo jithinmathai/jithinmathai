@@ -3,8 +3,8 @@
 <!-- BIBLE-VERSE:START -->
 <div align="center">
 
-> 📖 *“Thy word is a lamp to my feet, and a light to my paths.”*  
-> — **Psalm 118:105 (DRA) / Psalm 119:105** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
+> 📖 *“I can do all things in him who strengtheneth me.”*  
+> — **Philippians 4:13** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
 
 </div>
 <!-- BIBLE-VERSE:END -->
