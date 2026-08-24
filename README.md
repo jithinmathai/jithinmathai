@@ -3,8 +3,8 @@
 <!-- BIBLE-VERSE:START -->
 <div align="center">
 
-> 📖 *“Come to me, all you that labour, and are burdened, and I will refresh you.”*  
-> — **Matthew 11:28** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
+> 📖 *“The Lord ruleth me: and I shall want nothing.”*  
+> — **Psalm 22:1 (DRA) / Psalm 23:1** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
 
 </div>
 <!-- BIBLE-VERSE:END -->
