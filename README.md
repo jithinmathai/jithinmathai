@@ -3,8 +3,8 @@
 <!-- BIBLE-VERSE:START -->
 <div align="center">
 
-> 📖 *“Wherefore I wished, and understanding was given me: and I called upon God, and the spirit of wisdom came upon me.”*  
-> — **Wisdom 7:7** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
+> 📖 *“All things have their season, and in their times all things pass under heaven.”*  
+> — **Ecclesiastes 3:1** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
 
 </div>
 <!-- BIBLE-VERSE:END -->
