@@ -3,8 +3,8 @@
 <!-- BIBLE-VERSE:START -->
 <div align="center">
 
-> 📖 *“Let us give thanks to the Lord our God, who trieth us, even as he did our fathers.”*  
-> — **Judith 8:25** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
+> 📖 *“Good things and evil, life and death, poverty and riches, are from God.”*  
+> — **Sirach 11:14** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
 
 </div>
 <!-- BIBLE-VERSE:END -->
