@@ -3,8 +3,8 @@
 <!-- BIBLE-VERSE:START -->
 <div align="center">
 
-> 📖 *“Rejoicing in hope. Patient in tribulation. Instant in prayer.”*  
-> — **Romans 12:12** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
+> 📖 *“Seek ye therefore first the kingdom of God, and his justice, and all these things shall be added unto you.”*  
+> — **Matthew 6:33** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
 
 </div>
 <!-- BIBLE-VERSE:END -->
