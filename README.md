@@ -3,8 +3,8 @@
 <!-- BIBLE-VERSE:START -->
 <div align="center">
 
-> 📖 *“Thy word is a lamp to my feet, and a light to my paths.”*  
-> — **Psalm 118:105 (DRA) / Psalm 119:105** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
+> 📖 *“All things have their season, and in their times all things pass under heaven.”*  
+> — **Ecclesiastes 3:1** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
 
 </div>
 <!-- BIBLE-VERSE:END -->
