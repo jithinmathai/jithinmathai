@@ -3,8 +3,8 @@
 <!-- BIBLE-VERSE:START -->
 <div align="center">
 
-> 📖 *“Learn where is wisdom, where is strength, where is understanding: that thou mayst know also where is length of days and life, where is the light of the eyes, and peace.”*  
-> — **Baruch 3:14** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
+> 📖 *“Now faith is the substance of things to be hoped for, the evidence of things that appear not.”*  
+> — **Hebrews 11:1** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
 
 </div>
 <!-- BIBLE-VERSE:END -->
