@@ -3,8 +3,8 @@
 <!-- BIBLE-VERSE:START -->
 <div align="center">
 
-> 📖 *“Learn where is wisdom, where is strength, where is understanding: that thou mayst know also where is length of days and life, where is the light of the eyes, and peace.”*  
-> — **Baruch 3:14** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
+> 📖 *“Give alms out of thy substance, and turn not away thy face from any poor person: for so it shall come to pass that the face of the Lord shall not be turned from thee.”*  
+> — **Tobit 4:7** &nbsp;·&nbsp; <sub>*Douay-Rheims-Challoner (Catholic Bible)*</sub>
 
 </div>
 <!-- BIBLE-VERSE:END -->
