@@ -9,7 +9,7 @@
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mathai.jithinvm)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mathai.jithinvm@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=jithinmathai&color=70a5fd&style=flat-square&label=Profile+Views)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=jithinmathai.jithinmathai&left_text=Profile%20Views&right_color=%2370a5fd)
 ![Followers](https://img.shields.io/github/followers/jithinmathai?label=Followers&style=flat-square&color=bf91f3&logo=github)
 ![Stars](https://img.shields.io/github/stars/jithinmathai?label=Stars&style=flat-square&color=e0af68&logo=github)
 ![Location](https://img.shields.io/badge/Kochi%2C%20India-UTC%2B05%3A30-38bdae?style=flat-square&logo=googlemaps&logoColor=white)
